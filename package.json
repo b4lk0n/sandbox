@@ -1,0 +1,12 @@
+{
+  "name": "serve-sandbox",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "serve src"
+  },
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
